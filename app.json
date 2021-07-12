@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Bulk Money Transfer Application",
+    "githubUrl": "https://github.com/mojagap/mojaNodeMobile"
   }
 }
